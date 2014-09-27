@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDD0DFAC-6DEB-4D44-B68D-904C8C0F041D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Arkanoid</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FB088D8BF153B85C428ABE0E4D70668D0E218E50</key>
+		<string>https://github.com/ArtemKyslicyn/Arcanoid.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Arkanoid/Arkanoid.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FB088D8BF153B85C428ABE0E4D70668D0E218E50</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ArtemKyslicyn/Arcanoid.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FB088D8BF153B85C428ABE0E4D70668D0E218E50</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FB088D8BF153B85C428ABE0E4D70668D0E218E50</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Arcanoid</string>
+		</dict>
+	</array>
+</dict>
+</plist>
